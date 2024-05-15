@@ -31,7 +31,7 @@ Our report provides a comprehensive overview of our approach, methodologies, and
 
 ### Code
 
-This section contains the code for our project, including data preprocessing, model training, and implementation of the final model architecture. Feel free to explore the codebase to understand our approach and methodologies.
+This section contains the code for our project, including data preprocessing, model training, and implementation of the final model architecture. We have included several models that we experimented with during our analysis. Feel free to explore the codebase to understand our approach and methodologies.
 
 ### Models
 We experimented with various models including:
