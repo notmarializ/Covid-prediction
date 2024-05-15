@@ -30,11 +30,8 @@ Our report provides a comprehensive overview of our approach, methodologies, and
 ## Repository Contents
 
 ### Code
-The repository contains the following code files:
 
-1. `data_preprocessing.ipynb`: Jupyter Notebook for data preprocessing steps.
-2. `model_training.ipynb`: Jupyter Notebook for training various machine learning models.
-3. `final_model.ipynb`: Jupyter Notebook for the implementation of our final model architecture.
+This section contains the code for our project, including data preprocessing, model training, and implementation of the final model architecture. Feel free to explore the codebase to understand our approach and methodologies.
 
 ### Models
 We experimented with various models including:
